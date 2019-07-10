@@ -1,0 +1,14 @@
+C:\Users\Rian\source\repos\Lembretes\Modelo.Service\bin\Debug\netcoreapp2.2\Modelo.Service.deps.json
+C:\Users\Rian\source\repos\Lembretes\Modelo.Service\bin\Debug\netcoreapp2.2\Modelo.Service.dll
+C:\Users\Rian\source\repos\Lembretes\Modelo.Service\obj\Debug\netcoreapp2.2\Modelo.Service.csproj.CoreCompileInputs.cache
+C:\Users\Rian\source\repos\Lembretes\Modelo.Service\obj\Debug\netcoreapp2.2\Modelo.Service.AssemblyInfoInputs.cache
+C:\Users\Rian\source\repos\Lembretes\Modelo.Service\obj\Debug\netcoreapp2.2\Modelo.Service.AssemblyInfo.cs
+C:\Users\Rian\source\repos\Lembretes\Modelo.Service\obj\Debug\netcoreapp2.2\Modelo.Service.csprojAssemblyReference.cache
+C:\Users\Rian\source\repos\Lembretes\Modelo.Service\bin\Debug\netcoreapp2.2\Modelo.Service.pdb
+C:\Users\Rian\source\repos\Lembretes\Modelo.Service\bin\Debug\netcoreapp2.2\Modelo.Domain.dll
+C:\Users\Rian\source\repos\Lembretes\Modelo.Service\bin\Debug\netcoreapp2.2\Modelo.Infra.Data.dll
+C:\Users\Rian\source\repos\Lembretes\Modelo.Service\bin\Debug\netcoreapp2.2\Modelo.Domain.pdb
+C:\Users\Rian\source\repos\Lembretes\Modelo.Service\bin\Debug\netcoreapp2.2\Modelo.Infra.Data.pdb
+C:\Users\Rian\source\repos\Lembretes\Modelo.Service\obj\Debug\netcoreapp2.2\Modelo.Service.csproj.CopyComplete
+C:\Users\Rian\source\repos\Lembretes\Modelo.Service\obj\Debug\netcoreapp2.2\Modelo.Service.dll
+C:\Users\Rian\source\repos\Lembretes\Modelo.Service\obj\Debug\netcoreapp2.2\Modelo.Service.pdb

@@ -1,0 +1,9 @@
+C:\Users\Rian\source\repos\Lembretes\Modelo.Domain\bin\Debug\netcoreapp2.2\Modelo.Domain.deps.json
+C:\Users\Rian\source\repos\Lembretes\Modelo.Domain\bin\Debug\netcoreapp2.2\Modelo.Domain.dll
+C:\Users\Rian\source\repos\Lembretes\Modelo.Domain\obj\Debug\netcoreapp2.2\Modelo.Domain.csprojAssemblyReference.cache
+C:\Users\Rian\source\repos\Lembretes\Modelo.Domain\obj\Debug\netcoreapp2.2\Modelo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rian\source\repos\Lembretes\Modelo.Domain\obj\Debug\netcoreapp2.2\Modelo.Domain.AssemblyInfoInputs.cache
+C:\Users\Rian\source\repos\Lembretes\Modelo.Domain\obj\Debug\netcoreapp2.2\Modelo.Domain.AssemblyInfo.cs
+C:\Users\Rian\source\repos\Lembretes\Modelo.Domain\bin\Debug\netcoreapp2.2\Modelo.Domain.pdb
+C:\Users\Rian\source\repos\Lembretes\Modelo.Domain\obj\Debug\netcoreapp2.2\Modelo.Domain.dll
+C:\Users\Rian\source\repos\Lembretes\Modelo.Domain\obj\Debug\netcoreapp2.2\Modelo.Domain.pdb

@@ -1,0 +1,14 @@
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.Data\bin\Debug\netcoreapp2.2\Modelo.Infra.Data.deps.json
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.Data\bin\Debug\netcoreapp2.2\Modelo.Infra.Data.dll
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.Data\obj\Debug\netcoreapp2.2\Modelo.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.Data\obj\Debug\netcoreapp2.2\Modelo.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.Data\obj\Debug\netcoreapp2.2\Modelo.Infra.Data.AssemblyInfo.cs
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.Data\bin\Debug\netcoreapp2.2\Modelo.Infra.Data.runtimeconfig.json
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.Data\bin\Debug\netcoreapp2.2\Modelo.Infra.Data.runtimeconfig.dev.json
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.Data\obj\Debug\netcoreapp2.2\Modelo.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.Data\bin\Debug\netcoreapp2.2\Modelo.Infra.Data.pdb
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.Data\bin\Debug\netcoreapp2.2\Modelo.Domain.dll
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.Data\bin\Debug\netcoreapp2.2\Modelo.Domain.pdb
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.Data\obj\Debug\netcoreapp2.2\Modelo.Infra.Data.csproj.CopyComplete
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.Data\obj\Debug\netcoreapp2.2\Modelo.Infra.Data.dll
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.Data\obj\Debug\netcoreapp2.2\Modelo.Infra.Data.pdb

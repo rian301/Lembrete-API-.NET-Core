@@ -1,0 +1,9 @@
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.CrossCutting\bin\Debug\netcoreapp2.2\Modelo.Infra.CrossCutting.deps.json
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.CrossCutting\bin\Debug\netcoreapp2.2\Modelo.Infra.CrossCutting.dll
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.CrossCutting\bin\Debug\netcoreapp2.2\Modelo.Infra.CrossCutting.pdb
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Modelo.Infra.CrossCutting.csprojAssemblyReference.cache
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Modelo.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Modelo.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Modelo.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Modelo.Infra.CrossCutting.dll
+C:\Users\Rian\source\repos\Lembretes\Modelo.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Modelo.Infra.CrossCutting.pdb
