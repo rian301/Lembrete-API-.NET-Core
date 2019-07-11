@@ -18,6 +18,7 @@ namespace Modelo.Infra.Data.Mapping
             builder.Property(c => c.Texto)
                 .IsRequired()
                 .HasColumnName("Texto_Lembrete");
+
         }
     }
 }

@@ -13,6 +13,7 @@ namespace Modelo.Service.Validators
             RuleFor(c => c.Texto)
                .NotEmpty().WithMessage("É necessário digitar um texto.")
                .NotNull().WithMessage("É necessário digitar um texto.");
+            
         }
     }
 }

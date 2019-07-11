@@ -24,6 +24,14 @@ namespace Modelo.Infra.Data.Migrations
                         .ValueGeneratedOnAdd()
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+                    b.Property<bool>("Arquivado");
+
+                    b.Property<string>("FezOs");
+
+                    b.Property<int>("Modificado");
+
+                    b.Property<string>("Prioridade");
+
                     b.Property<string>("Texto")
                         .IsRequired()
                         .HasColumnName("Texto_Lembrete");
